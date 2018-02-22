@@ -57,7 +57,7 @@ BOT TWITTER
 
 <p align="center"> <img src="https://i.imgur.com/yoSwALM.png" title="source: imgur.com" /></a>
 
-- **Acquisition via "influenceurs"** on a voulu ciblé deux types d'audience : journalistes et école. La liste journaliste était déja fournie. 
+- **Acquisition par "influenceurs"** on a voulu ciblé deux types d'audience : journalistes et école. La liste journaliste était déja fournie. 
 La liste des écoles a été scrappée a partir du web. 
 Le bot va liker et poster un message avec un lien vers notre landing page.
 L'avantage de cette technique est qu'on va bénéficier de l'aura de ces influenceurs. 
@@ -69,7 +69,7 @@ L'avantage de cette technique est qu'on va bénéficier de l'aura de ces influen
 
 BOT GMAIL 
 
-- **Acquisition via profils professionnels et institutionnels**
+- **Acquisition par profils professionnels et institutionnels**
 Le bot envoi un mail afin de présenter THP et d'inviter à se connecter sur la landing page. Deux listes ont été établies :  
 
 Les mairies (déja scrappées).
