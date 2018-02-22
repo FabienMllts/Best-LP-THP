@@ -40,8 +40,10 @@ Parcours utilisateurs simplifié grâce aux différentes intégrations de renvoi
 </p>
 
 
+
 ### Acquisition 
 <hr>
+
 <p align="center"><img src= https://www.arobase.org/wp-content/uploads/2014/09/gmail2.ico /></a> <img src= "https://i2.wp.com/primi.pro/wp-content/uploads/2017/10/logo-twitter.png" /></a>
 </p>
 
