@@ -83,6 +83,7 @@ Afin d'analyse nos taux de clics, conversion, taux d'ouvertures, utilisateurs ac
 <p align="center"><img src="https://i.imgur.com/5nDIoQl.png" title="source: imgur.com" /></a>
 </p>
 
+Cette rubrique sera mise à jour.
 
 ### Pistes d'améliorations
 <hr>
