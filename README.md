@@ -36,7 +36,7 @@ Parcours utilisateurs simplifié grâce aux différentes intégrations de renvoi
 
 
 <p align="center">
-<img src="https://i.imgur.com/pXXSjyd.png" title="source: imgur.com" /></a> /></a
+<img src="https://i.imgur.com/pXXSjyd.png" title="source: imgur.com" /></a> 
 </p>
 
 
