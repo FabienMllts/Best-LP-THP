@@ -77,10 +77,11 @@ Voici le google sheet qui regroupe les emails scrapper des directeurs d'IUT :poi
 
 Afin d'analyse nos taux de clics, conversion, taux d'ouvertures, utilisateurs actifs, nous avons utilisés deux outils : Google Analytics et l'outil intégré d'analyse MailChimp.
 
-<p align="center"><img src="https://i.imgur.com/fkQ0YQ2.png" title="source: imgur.com" /></a>
+<p align="center"><img src="https://i.imgur.com/5nDIoQl.png" title="source: imgur.com" /></a>
 </p>
 
-<p align="center"><img src="https://i.imgur.com/5nDIoQl.png" title="source: imgur.com" /></a>
+<p align="center">
+<img src="https://i.imgur.com/PabM7OE.png" title="source: imgur.com" />
 </p>
 
 Cette rubrique sera mise à jour.
