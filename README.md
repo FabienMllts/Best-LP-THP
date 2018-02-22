@@ -92,4 +92,4 @@ Afin d'analyse nos taux de clics, conversion, taux d'ouvertures, utilisateurs ac
 - Pousser d'avantage la réflexion su la stratégie de ciblage, de diffusion et de captation via les différents canaux web. 
 <hr>
 
-Des questions ? @Marouene @Mati 
+Des questions ? SLack @Marouene @Mati @Roman @Fabien @Robinhood 
