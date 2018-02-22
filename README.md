@@ -1,8 +1,8 @@
  ### THP LANDING PAGE 
 
-Tu peux accéder à notre super landing page ici :point_right: /http://bit.ly/2oidxFY.
+Tu peux accéder à notre super landing page ici :point_right: http://bit.ly/2oidxFY.
 
-Consigne d'affichage pour Safari, opera et Firefox : Réduire la page à 80% pour affichage optimal.
+Consigne d'affichage pour Safari, Opera et Firefox : Réduire la page à 80% pour affichage optimal.
 <hr>
 
 MENU
