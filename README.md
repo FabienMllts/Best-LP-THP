@@ -56,14 +56,16 @@ BOT TWITTER
 <p align="center"> <img src="https://i.imgur.com/inaQtmN.png" title="source: imgur.com" /></a>
 
 <p align="center"> <img src="https://i.imgur.com/yoSwALM.png" title="source: imgur.com" /></a>
- 
-<p align="center"> <img src="https://i.imgur.com/kmGwyWV.png" title="source: imgur.com" /></a>
-
 
 - **Acquisition via "influenceurs"** on a voulu ciblé deux types d'audience : journalistes et école. La liste journaliste était déja fournie. 
 La liste des écoles a été scrappée a partir du web. 
 Le bot va liker et poster un message avec un lien vers notre landing page.
 L'avantage de cette technique est qu'on va bénéficier de l'aura de ces influenceurs. 
+
+<p align="center"> /></a><img src="https://i.imgur.com/oTV8ygL.png" title="source: imgur.com" /> 
+
+<p align="center"> <img src="https://i.imgur.com/kmGwyWV.png" title="source: imgur.com" /></a>
+
 
 BOT GMAIL 
 
