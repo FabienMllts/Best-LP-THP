@@ -69,9 +69,11 @@ L'avantage de cette technique est qu'on va bénéficier de l'aura de ces influen
 
 BOT GMAIL 
 
-Le bot envoi un mail à deux listes : 
-- les mairies ( déja scrappées).
-- une nouvelle liste, les IUT d'ile-de-France. Un programme de SCRAPPING a donc été réalisé afin de récuperer les emails pour cette nouvelle liste. 
+- **Acquisition via profils professionnels et institutionnels**
+Le bot envoi un mail afin de présenter THP et d'inviter à se connecter sur la landing page. Deux listes ont été établies :  
+
+Les mairies (déja scrappées).
+Une nouvelle liste, les IUT d'ile-de-France. Un programme de SCRAPPING a donc été réalisé afin de récuperer les emails pour cette nouvelle liste.
 Voici le google sheet qui regroupe les emails scrapper des directeurs d'IUT :point_right: https://docs.google.com/spreadsheets/d/1M1vJ2XhdkrV2JvmHb5RauwYmHlHWv1k-AbdXTFx7Ti8/edit#gid=0
 
 ### Métrics
