@@ -6,10 +6,10 @@ Consigne d'affichage pour Safari, Opera et Firefox : Réduire la page à 80% pou
 <hr>
 
 MENU
- 1. [Structure globale du site](https://github.com/robinhood14/LANDING-PAGE#structure-globale-du-site)
- 2. [Acquisition](https://github.com/robinhood14/LANDING-PAGE#acquisition)
- 3. [Métrics](https://github.com/robinhood14/LANDING-PAGE#métrics)
- 4. [Pistes d'améliorations](https://github.com/robinhood14/LANDING-PAGE#pistes-daméliorations)
+ 1. [Structure globale du site](https://github.com/FabienMllts/Best-LP-THP/blob/master/README.md#structure-globale-du-site)
+ 2. [Acquisition](https://github.com/FabienMllts/Best-LP-THP/blob/master/README.md#acquisition)
+ 3. [Métrics](https://github.com/FabienMllts/Best-LP-THP/blob/master/README.md#métrics)
+ 4. [Pistes d'améliorations](https://github.com/FabienMllts/Best-LP-THP/blob/master/README.md#pistes-daméliorations)
 
 
 ### Structure globale du site
